@@ -7,10 +7,10 @@ This repository contains a real-world electricity demand dataset that was scrapp
 ## Exploratory Analysis of Dataset
 The exploratory analysis of the dataset indicates two types of seasonality in the data – a daily and weekly pattern that resembles with real world electricity consumption.
 * The electricity load profile in the dataset:
-* ![fulL normal](https://github.com/Shahid-Fakhri/Electricity-Consumption/assets/83221922/6a9e9e6e-3bfb-4918-9068-6443ebb4887c)
+![fulL normal](https://github.com/Shahid-Fakhri/Electricity-Consumption/assets/83221922/6a9e9e6e-3bfb-4918-9068-6443ebb4887c)
 
 * Monthly electricity consumption
-* ![monthly normal](https://github.com/Shahid-Fakhri/Electricity-Consumption/assets/83221922/ba0344a9-d294-40fa-ba7b-398eff45eb86)
+![monthly normal](https://github.com/Shahid-Fakhri/Electricity-Consumption/assets/83221922/ba0344a9-d294-40fa-ba7b-398eff45eb86)
 
 * Monthly average consumption
 ![monthly_average](https://github.com/Shahid-Fakhri/Electricity-Consumption/assets/83221922/ae171079-6870-4fc9-b001-39037b18063b)
